@@ -1,4 +1,4 @@
 # ECE241
 Electronics I
 
-LTspice circuits for assignments from ECE241.
+LTspice circuits and project work for assignments from ECE241.
